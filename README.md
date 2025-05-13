@@ -1,8 +1,7 @@
-## Hi there 👋
-<h3 align="left">I am Ching-Hao Chang, and you can also call me Ryan.</h3>
-- Major: 
-<h3 align="left">Master of Econometrics and Quantitative Economics</h3>
-<h3 align="left">Master of Industrial Operations and Engineering Student at the University of Michigan- Ann Arbor (UMich).</h3>
+## Hi there 👋, I'm Ryan Chang, a student at the University of Michigan- Ann Arbor.
+<h3 align="left">Major:</h3>
+<h3 align="left">&#8226Master of Econometrics and Quantitative Economics- Data Science</h3>
+<h3 align="left">&#8226Master of Industrial Operations and Engineering</h3>
 <h3 align="left">I am actively learning data analysis skills through self-study and statistics courses, focusing on tools such as NumPy, SciPy, and Pandas. In the future, I plan to delve deeper into machine learning, exploring both its theoretical foundations and practical applications to enhance my analytical capabilities. Here, I will share my learning materials and practice exercises to document my journey and showcase my progress.</h3>
 
 - 🌱 I’m currently learning **Machine Learning & Financial Analysis**
