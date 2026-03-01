@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ryan Chang, a student at the University of Michigan- Ann Arbor.
 <h3 align="left">Major:</h3>
-<h3 align="left">&#8226Master of Econometrics and Quantitative Economics- Data Science</h3>
+<h3 align="left">&#8226Master of Applied Economics- Data Analytics</h3>
 <h3 align="left">&#8226Master of Industrial Operations and Engineering</h3>
 <h3 align="left">I am actively learning data analysis skills through self-study and statistics courses, focusing on tools such as NumPy, SciPy, and Pandas. In the future, I plan to delve deeper into machine learning, exploring both its theoretical foundations and practical applications to enhance my analytical capabilities. Here, I will share my learning materials and practice exercises to document my journey and showcase my progress.</h3>
 
