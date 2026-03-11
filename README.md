@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ryan Chang, a student at the University of Michigan- Ann Arbor<img src="image.png" width="30">
+## Hi there 👋, I'm Ryan Chang, a student at the University of Michigan- Ann Arbor  <img src="image.png" width="40">
 <h3 align="left">Major in:</h3>
 <h3 align="left">&#8226 Master of Applied Economics- Data Analytics</h3>
 <h3 align="left">&#8226 Master of Industrial Operations and Engineering</h3>
