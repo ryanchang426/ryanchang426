@@ -9,7 +9,7 @@
 - 💬 Ask me about **Financial Modeling, Data Analysis, Baseball (MLB game),and Weight Training**
 - 📫 How to reach me: **ryanchc@umich.edu**
 - 📄 Know about my experiences [Curriculum Vitae_2025.pdf](https://github.com/ryanchang426/ryanchang426/blob/main/Curriculum%20Vitae_2025.pdf)
-- ⚡ Fun fact: **I played baseball for my school team for 10 years and I'm a Dodgers fan.** ![img]()⚾️
+- ⚡ Fun fact: **I played baseball for my school team for 10 years and I'm a Dodgers fan.** <img src="image.png" width="20">⚾️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
