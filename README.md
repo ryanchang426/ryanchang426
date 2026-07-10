@@ -1,14 +1,14 @@
-## Hi there 👋, I'm Ryan Chang, a student at the University of Michigan- Ann Arbor  <img src="image.png" width="40">
+## Hi!  I'm Ryan Chang, a master student at the University of Michigan <img src="image.png" width="40">
 <h3 align="left">Major in:</h3>
-<h3 align="left">&#8226 Master of Applied Economics- Data Analytics</h3>
-<h3 align="left">&#8226 Master of Industrial Operations and Engineering</h3>
+<h3 align="left">&#8226 Applied Economics- Data Analytics</h3>
+<h3 align="left">&#8226 Industrial Operations and Engineering</h3>
 <h3 align="left">I am actively learning data analysis skills through self-study and statistics courses, focusing on tools such as NumPy, SciPy, and Pandas. In the future, I plan to delve deeper into machine learning, exploring both its theoretical foundations and practical applications to enhance my analytical capabilities. Here, I will share my learning materials and practice exercises to document my journey and showcase my progress.</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Data Analytics, and Quantitative Investment**
-- 👯 I’m looking to collaborate on **machine learning applications in industry field**
-- 💬 Ask me about **Financial Modeling, Data Analysis, Baseball (MLB game),and Weight Training**
+- 🌱 I’m currently learning **AI Agent, Data Analytics, Quantitative Investment,  Project Management**
+- 👯 I’m looking to collaborate on **AI in industry and finance field**
+- 💬 Ask me about **AI Agent, Financial Modeling, Data Analysis, Baseball (MLB game),and Weight Training**
 - 📫 How to reach me: **ryanchc@umich.edu**
-- 📄 Know about my experiences [Curriculum Vitae_2025.pdf](https://github.com/ryanchang426/ryanchang426/blob/main/Curriculum%20Vitae_2025.pdf)
+- 📄 Know about my experiences  [中文简历](https://github.com/ryanchang426/ryanchang426/blob/main/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)   [Curriculum Vitae](https://github.com/ryanchang426/ryanchang426/blob/main/Curriculum%20Vitae_2025.pdf) 
 - ⚡ Fun fact: **I played baseball for my school team for 10 years and I'm a Dodgers fan.** <img src="image2.png" width="20">⚾️
 
 <h3 align="left">Connect with me:</h3>
